@@ -4,6 +4,7 @@ my_get_Gaussian1D_mask 함수 구현하기
 
 - 1차원 가우시안 마스크를 이용할 때 더 적은 시간이 소요되는데, 이를 비교하는 실습을 진행한다.
 
-https://github.com/4RG0S/2020-Spring-Small-Study/issues/2#issue-630840174
+![image](https://user-images.githubusercontent.com/44044134/83763810-18e1d980-a6b4-11ea-94c1-65fe9c8b1ecc.png)
+
 
 <수식을 간단하게 하기 위해 mu는 제외한다. >
