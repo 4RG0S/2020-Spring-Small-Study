@@ -8,6 +8,14 @@
 
 <div>
   
-  
+ 마지막 문제는 위에서 배운 것들을 적용해
+ 
+ ![image](https://user-images.githubusercontent.com/65721409/85927634-62ec6280-b8e2-11ea-8dfc-2feff7510504.png)
+ 
+ 위 조건을 만족하는 함수를 제작을 하는데,
+ 
 
 ![image](https://user-images.githubusercontent.com/65721409/85927605-320c2d80-b8e2-11ea-82e4-f05f779ccb59.png)
+![image](https://user-images.githubusercontent.com/65721409/85927666-94fdc480-b8e2-11ea-800e-e9e1688e6302.png)
+
+이렇게 만들었습니다.
