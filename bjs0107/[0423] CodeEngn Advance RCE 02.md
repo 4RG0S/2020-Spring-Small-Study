@@ -1,11 +1,13 @@
 코드엔진 Advance 02를 풀었습니다.
 다만 제 환경에서는 문제 프로그램이 잘 안돌아가서, 
 
+
+<div>
 ![image](https://user-images.githubusercontent.com/65721409/85939492-fceaf400-b950-11ea-9ae9-daa9a6c032fb.png)
 vm으로 새로 윈도우 환경을 구축하고 디버거를 설치해서 분석했습니다.
 
 
-
+<div>
 ![image](https://user-images.githubusercontent.com/65721409/85939519-2f94ec80-b951-11ea-8d86-3d7fd9f3091f.png)
 문제 내용은 Password를 찾으면 됩니다.
 
