@@ -1,0 +1,20 @@
+9:00 ~ 11:00
+
+과제. ping-pong 게임 구현 
+
+• ping, pong을 순서대로 입력하는 게임을 구현하라. (server.c 샘플 코드 제공) • server와 client 두개의 프로그램으로 구성 – FIFO 사용 
+
+• server와 client는 각자의 차례까지 대기 – Named Semaphore 사용 
+
+• 각 프로그램은 점수 100점을 가지고 시작한다.
+
+• 실수한 경우 해당 프로그램은 점수 20점 감점. 
+
+• server는 항상 ping, client는 항상 pong을 입력해야 함 
+
+• 각 프로그램 당 5회 반복한 후, 남은 점수를 출력하면서 프로그램 종료. 
+
+• 주의 – 무조건 server의 ping이 먼저 시작되어야한다. / FIFO, Named Semaphore 필수 사용
+
+ping-pong 끄읏
+
